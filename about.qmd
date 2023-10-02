@@ -1,0 +1,53 @@
+---
+title: "About"
+image: betti.jpg
+about:
+  template: jolla
+  links:
+    - icon: naver
+      text: Naver
+      href: https://naver.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/%EC%9B%90%EC%A7%84-%EC%B5%9C-aa72bb204/
+    - icon: github
+      text: Github
+      href: https://github.com/choiwonjin55
+---
+
+------------------------------------------------------------------------
+
+안녕하세요 최원진입니다.
+
+통계를 사용하여 문제를 해결하는 데 열정적인 데이터 분석가입니다.
+
+현재 SFA에서 스마트팩토리 데이터 분석을 담당하고 있습니다.
+
+contact : choiwonjin55\@gmail.com
+
+# 경력
+
+### 데이터 분석가
+
+#### SFA, 2022/10 \~ 현재
+
+### 데이터 분석가
+
+#### 베라팜 2022/?? \~ 2022/??
+
+### 데이터 분석가
+
+#### 팜한농, 2021/05 \~ 2022/05
+
+```         
+```
+
+# 학력
+
+### 응용통계학 석사
+
+#### 한양대학교, 서울, 2019 \~ 2021
+
+### 응용통계학 학사
+
+#### 세종대학교, 서울, 2013 \~ 2019

@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: e2c8fad1-3d5e-41f6-902d-8619ce185dbd
+      url: 'https://choiwonjin.quarto.pub/myfirstblog'

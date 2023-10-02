@@ -1,0 +1,12 @@
+---
+title: "공모전 분석"
+author: "Choi Wonjin"
+date: "2023-09-03"
+categories: [analysis,code]
+---
+
+공모전 데이터를 분석해보아요
+
+[![test](images/내꺼찜.JPG){fig-alt="test1"}](test2)
+
+Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.

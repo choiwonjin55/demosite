@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Narrative Data"
+  navbar:
+    right:
+      - about.qmd
+      - icon: linkedin
+        href: https://www.linkedin.com/in/%EC%9B%90%EC%A7%84-%EC%B5%9C-aa72bb204/
+      - icon: github
+        href: https://github.com/choiwonjin55
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+editor: visual
+
